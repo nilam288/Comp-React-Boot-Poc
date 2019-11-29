@@ -1,3 +1,12 @@
+
+npx create-react-app my-app
+
+cd my-app
+
+npm start
+
+npm install -g npm-windows-upgrade
+
 npm install react-redux
 
 npm install react-bootstrap bootstrap
@@ -17,3 +26,5 @@ npm install react-dom
 npm install react
 
 npm install 
+
+
