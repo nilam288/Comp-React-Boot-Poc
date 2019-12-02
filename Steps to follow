@@ -6,4 +6,10 @@ import header and bootstrap lib in app.js
 create dashborsd.js and add link for Createprojectbutton.js for new project
 inport Createprojectbutton in 
 create Createprojectbutton button for new project and add link to addproject.js for new one
+add code for add project .js file for form detail info
+import that in app.js
+and add routing for that in app.js
+create project button cantain a hyperlink for add project 
+so use it for form creation
+
 
