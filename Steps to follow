@@ -1,0 +1,9 @@
+After install all dependancy
+create header.js in layout floder
+replace app.css to PPMTool design for design
+add header to app.js file
+import header and bootstrap lib in app.js
+create dashborsd.js and add link for Createprojectbutton.js for new project
+inport Createprojectbutton in 
+create Createprojectbutton button for new project and add link to addproject.js for new one
+
